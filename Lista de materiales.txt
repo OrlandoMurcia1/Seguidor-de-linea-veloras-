@@ -1,0 +1,13 @@
+Lista de materiales
+A continuación se mostrarán los materiales usados para la construcción de "Veloras" con su respectivo link de información.
+1. Arduino Nano (Microcontrolador)  http://arduino.cl/arduino-nano/
+2. TB6612FNG Modulo puente H https://www.pololu.com/product/713
+3. QTR-8A Pololu Sensores infrarrojo https://www.pololu.com/product/960
+4. 2 Baterias de tipo lipo (500mAh-300mAh) (45-90c) 
+5. 2 Motores pololu de eje extendido para adición de encoders (3000 RPMS) https://www.pololu.com/product/3072
+6. Encoders magneticos Pololu https://www.pololu.com/product/3081 
+7. Modulo Bluetooth HC-05 https://www.gme.cz/data/attachments/dsh.772-148.1.pdf
+9. Regulador de voltaje (mini DC-DC converter 360) http://www.mantech.co.za/datasheets/products/MINI-360-R0.pdf
+10. Leds 
+11. Boton
+12. Llantas
